@@ -11,7 +11,7 @@ body {
   background-color: #eee;
 }
 
-.page-view {
+.page-container {
   width: 1170px;
   height: 100%;
   overflow: auto;
@@ -37,20 +37,13 @@ section .area-title {
   padding-left: 8px;
 }
 
-section .area-body {
+.area-body {
   display: flex;
-  flex-wrap: wrap;
+  height: 44px;
   align-items: center;
-  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
-section .area-body div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 24%;
-  height: 40px;
-  border-radius: 4px;
-  background-color: #fff;
-  margin-bottom: 10px;
+.area-body i {
+  margin: 15px;
 }
