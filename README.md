@@ -12,7 +12,7 @@ cz-icon-lib 是一个纯 css 实现的拥有各式各样的图标库
 
 ### GitHub 地址
 
-<a href="https://github.com/cz-frontend/cz-grid.git"></a>
+<a href="https://github.com/cz-frontend/cz-grid.git">传送门</a>
 
 ### 锤子前端官方交流群
 
