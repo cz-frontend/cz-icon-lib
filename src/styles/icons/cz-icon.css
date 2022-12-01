@@ -479,7 +479,7 @@
 
 
 
-.gg-arrow-right {
+.cz-arrow-right {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -488,8 +488,8 @@
   height: 22px
  }
  
- .gg-arrow-right::after,
- .gg-arrow-right::before {
+ .cz-arrow-right::after,
+ .cz-arrow-right::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -497,7 +497,7 @@
   right: 3px
  }
  
- .gg-arrow-right::after {
+ .cz-arrow-right::after {
   width: 8px;
   height: 8px;
   border-top: 2px solid;
@@ -506,7 +506,7 @@
   bottom: 7px
  }
  
- .gg-arrow-right::before {
+ .cz-arrow-right::before {
   width: 16px;
   height: 2px;
   bottom: 10px;
@@ -514,7 +514,7 @@
  } 
 
 
- .gg-arrow-top-left-o {
+ .cz-arrow-top-left-o {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -525,15 +525,15 @@
   border-radius: 20px
  }
  
- .gg-arrow-top-left-o::after,
- .gg-arrow-top-left-o::before {
+ .cz-arrow-top-left-o::after,
+ .cz-arrow-top-left-o::before {
   content: "";
   display: block;
   box-sizing: border-box;
   position: absolute
  }
  
- .gg-arrow-top-left-o::after {
+ .cz-arrow-top-left-o::after {
   width: 10px;
   height: 2px;
   background: currentColor;
@@ -542,7 +542,7 @@
   right: 4px
  }
  
- .gg-arrow-top-left-o::before {
+ .cz-arrow-top-left-o::before {
   width: 6px;
   height: 6px;
   left: 4px;
@@ -552,7 +552,7 @@
  } 
 
 
- .gg-arrow-top-left-r {
+ .cz-arrow-top-left-r {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -563,8 +563,8 @@
   border-radius: 4px
  }
  
- .gg-arrow-top-left-r::after,
- .gg-arrow-top-left-r::before {
+ .cz-arrow-top-left-r::after,
+ .cz-arrow-top-left-r::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -572,7 +572,7 @@
   left: 4px
  }
  
- .gg-arrow-top-left-r::after {
+ .cz-arrow-top-left-r::after {
   width: 10px;
   height: 2px;
   background: currentColor;
@@ -580,7 +580,7 @@
   bottom: 8px
  }
  
- .gg-arrow-top-left-r::before {
+ .cz-arrow-top-left-r::before {
   width: 6px;
   height: 6px;
   top: 4px;
@@ -588,7 +588,7 @@
   border-left: 2px solid
  } 
 
- .gg-arrow-top-left {
+ .cz-arrow-top-left {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -599,7 +599,7 @@
   border-left: 2px solid
  }
  
- .gg-arrow-top-left::after {
+ .cz-arrow-top-left::after {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -613,7 +613,7 @@
  } 
 
 
- .gg-arrow-up-o {
+ .cz-arrow-up-o {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -624,8 +624,8 @@
   border-radius: 20px
  }
  
- .gg-arrow-up-o::after,
- .gg-arrow-up-o::before {
+ .cz-arrow-up-o::after,
+ .cz-arrow-up-o::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -633,7 +633,7 @@
   top: 4px
  }
  
- .gg-arrow-up-o::after {
+ .cz-arrow-up-o::after {
   width: 6px;
   height: 6px;
   border-top: 2px solid;
@@ -642,7 +642,7 @@
   left: 6px
  }
  
- .gg-arrow-up-o::before {
+ .cz-arrow-up-o::before {
   width: 2px;
   height: 10px;
   left: 8px;
@@ -650,7 +650,7 @@
  } 
 
 
- .gg-arrow-up-r {
+ .cz-arrow-up-r {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -661,8 +661,8 @@
   border-radius: 4px
  }
  
- .gg-arrow-up-r::after,
- .gg-arrow-up-r::before {
+ .cz-arrow-up-r::after,
+ .cz-arrow-up-r::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -670,7 +670,7 @@
   top: 4px
  }
  
- .gg-arrow-up-r::after {
+ .cz-arrow-up-r::after {
   width: 6px;
   height: 6px;
   border-top: 2px solid;
@@ -679,14 +679,14 @@
   left: 6px
  }
  
- .gg-arrow-up-r::before {
+ .cz-arrow-up-r::before {
   width: 2px;
   height: 10px;
   left: 8px;
   background: currentColor
  } 
 
- .gg-arrows-expand-left {
+ .cz-arrows-expand-left {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -698,7 +698,7 @@
   -6px -6px 0 -4px
  }
  
- .gg-arrows-expand-left::before {
+ .cz-arrows-expand-left::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -712,7 +712,7 @@
   border-bottom: 9px solid
  } 
 
- .gg-compress-left {
+ .cz-compress-left {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -723,8 +723,8 @@
   border-bottom: 10px solid
  }
  
- .gg-compress-left::after,
- .gg-compress-left::before {
+ .cz-compress-left::after,
+ .cz-compress-left::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -735,20 +735,20 @@
   left: -2px
  }
  
- .gg-compress-left::after {
+ .cz-compress-left::after {
   border-bottom: 2px solid;
   border-right: 2px solid;
   top: -5px
  }
  
- .gg-compress-left::before {
+ .cz-compress-left::before {
   border-top: 2px solid;
   border-left: 2px solid;
   bottom: -5px
  } 
 
 
- .gg-compress-v {
+ .cz-compress-v {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -759,8 +759,8 @@
   border-bottom: 10px solid
  }
  
- .gg-compress-v::after,
- .gg-compress-v::before {
+ .cz-compress-v::after,
+ .cz-compress-v::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -771,20 +771,20 @@
   left: -2px
  }
  
- .gg-compress-v::after {
+ .cz-compress-v::after {
   border-bottom: 2px solid;
   border-right: 2px solid;
   top: -5px
  }
  
- .gg-compress-v::before {
+ .cz-compress-v::before {
   border-top: 2px solid;
   border-left: 2px solid;
   bottom: -5px
  } 
 
 
- .gg-compress {
+ .cz-compress {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -795,8 +795,8 @@
   border-right: 10px solid
  }
  
- .gg-compress::after,
- .gg-compress::before {
+ .cz-compress::after,
+ .cz-compress::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -807,20 +807,20 @@
   top: -2px
  }
  
- .gg-compress::before {
+ .cz-compress::before {
   border-right: 2px solid;
   left: -5px;
   transform: rotate(45deg)
  }
  
- .gg-compress::after {
+ .cz-compress::after {
   border-left: 2px solid;
   right: -5px;
   transform: rotate(-45deg)
  } 
 
 
- .gg-export {
+ .cz-export {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -834,15 +834,15 @@
   6px -8px 0 -6px
  }
  
- .gg-export::after,
- .gg-export::before {
+ .cz-export::after,
+ .cz-export::before {
   content: "";
   display: block;
   box-sizing: border-box;
   position: absolute
  }
  
- .gg-export::before {
+ .cz-export::before {
   background: currentColor;
   width: 2px;
   height: 14px;
@@ -850,7 +850,7 @@
   bottom: 5px
  }
  
- .gg-export::after {
+ .cz-export::after {
   width: 6px;
   height: 6px;
   border-left: 2px solid;
@@ -861,7 +861,7 @@
  } 
 
 
- .gg-external {
+ .cz-external {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -876,8 +876,8 @@
   margin-top: 1px
  }
  
- .gg-external::after,
- .gg-external::before {
+ .cz-external::after,
+ .cz-external::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -885,7 +885,7 @@
   right: -4px
  }
  
- .gg-external::before {
+ .cz-external::before {
   background: currentColor;
   transform: rotate(-45deg);
   width: 12px;
@@ -893,7 +893,7 @@
   top: 1px
  }
  
- .gg-external::after {
+ .cz-external::after {
   width: 8px;
   height: 8px;
   border-right: 2px solid;
@@ -902,7 +902,7 @@
  } 
 
 
- .gg-format-indent-decrease {
+ .cz-format-indent-decrease {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -913,8 +913,8 @@
   border-bottom: 2px solid
  }
  
- .gg-format-indent-decrease::after,
- .gg-format-indent-decrease::before {
+ .cz-format-indent-decrease::after,
+ .cz-format-indent-decrease::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -922,7 +922,7 @@
   top: 2px
  }
  
- .gg-format-indent-decrease::before {
+ .cz-format-indent-decrease::before {
   border-right: 4px solid;
   left: 1px;
   width: 0;
@@ -931,7 +931,7 @@
   border-bottom: 3px solid transparent
  }
  
- .gg-format-indent-decrease::after {
+ .cz-format-indent-decrease::after {
   width: 8px;
   height: 6px;
   border-top: 2px solid;
@@ -940,7 +940,7 @@
  } 
 
 
- .gg-format-indent-increase {
+ .cz-format-indent-increase {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -951,8 +951,8 @@
   border-bottom: 2px solid
  }
  
- .gg-format-indent-increase::after,
- .gg-format-indent-increase::before {
+ .cz-format-indent-increase::after,
+ .cz-format-indent-increase::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -960,7 +960,7 @@
   top: 2px
  }
  
- .gg-format-indent-increase::before {
+ .cz-format-indent-increase::before {
   border-left: 4px solid;
   left: 1px;
   width: 0;
@@ -969,7 +969,7 @@
   border-bottom: 3px solid transparent
  }
  
- .gg-format-indent-increase::after {
+ .cz-format-indent-increase::after {
   width: 8px;
   height: 6px;
   border-top: 2px solid;
@@ -978,7 +978,7 @@
  } 
 
 
- .gg-format-line-height {
+ .cz-format-line-height {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -996,8 +996,8 @@
   inset 0 -2px 0 0
  }
  
- .gg-format-line-height::after,
- .gg-format-line-height::before {
+ .cz-format-line-height::after,
+ .cz-format-line-height::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -1009,18 +1009,18 @@
   left: -8px
  }
  
- .gg-format-line-height::before {
+ .cz-format-line-height::before {
   border-top: 4px solid;
   bottom: -5px
  }
  
- .gg-format-line-height::after {
+ .cz-format-line-height::after {
   border-bottom: 4px solid;
   top: -5px
  } 
 
 
- .gg-gender-female {
+ .cz-gender-female {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -1032,8 +1032,8 @@
   margin-top: -4px
  }
  
- .gg-gender-female::after,
- .gg-gender-female::before {
+ .cz-gender-female::after,
+ .cz-gender-female::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -1045,14 +1045,14 @@
   left: -1px
  }
  
- .gg-gender-female::before {
+ .cz-gender-female::before {
   width: 2px;
   height: 9px;
   bottom: -9px;
   left: 2px
  } 
 
- .gg-maximize {
+ .cz-maximize {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -1067,7 +1067,7 @@
  } 
 
 
- .gg-maximize-alt {
+ .cz-maximize-alt {
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -1081,8 +1081,8 @@
   -6px 6px 0 -4px
  }
  
- .gg-maximize-alt::after,
- .gg-maximize-alt::before {
+ .cz-maximize-alt::after,
+ .cz-maximize-alt::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -1097,6 +1097,49 @@
   left: -4px
  }
  
- .gg-maximize-alt::before {
+ .cz-maximize-alt::before {
   transform: rotate(45deg)
+ } 
+
+
+ /* 日期幸图标 */
+ .cz-alarm {
+  background:
+  linear-gradient( to left,
+  currentColor 5px, transparent 0)
+  no-repeat 4.5px 6px/5px 2px,
+  linear-gradient( to left,
+  currentColor 7px, transparent 0)
+  no-repeat 4.5px 2px/2px 6px;
+  box-sizing: border-box;
+  position: relative;
+  display: block;
+  width: 16px;
+  height: 16px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  transform: scale(var(--ggs,1));
+  box-shadow: 0 0 0 2px
+ }
+ 
+ .cz-alarm::after,
+ .cz-alarm::before {
+  content: "";
+  display: block;
+  box-sizing: border-box;
+  position: absolute;
+  width: 6px;
+  height: 2px;
+  background: currentColor;
+  top: -4px
+ }
+ 
+ .cz-alarm::before {
+  left: -5px;
+  transform: rotate(-42deg)
+ }
+ 
+ .cz-alarm::after {
+  transform: rotate(42deg);
+  right: -5px
  } 
